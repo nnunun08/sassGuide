@@ -1,0 +1,7 @@
+.list {
+  width: 200px;
+}
+.list .item {
+  font-size: 10px;
+  font-weight: bold;
+}
